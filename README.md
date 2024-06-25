@@ -3,5 +3,6 @@
 
 # Types:
 - [Everything You Don't Know About 2 Stroke Engines 🤯](https://youtu.be/7wQ6AHLZmC8)
+- [New 2 Stroke with valves from Mazda will blow your mind 🤯](https://youtu.be/rQ-fTsqoU3Y)
 
 # Engineering
